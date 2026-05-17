@@ -1,0 +1,33 @@
+# IDE History and Recovery
+__history/
+__recovery/
+
+# Compiler Outputs
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.so
+*.apk
+*.aab
+*.ipa
+
+# Output Directories
+Win32/
+Win64/
+Android/
+Android64/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+OSX64/
+OSXARM64/
+
+# Local User Settings & Caches
+*.local
+*.identcache
+*.tvsconfig
+*.stat
+*.dsk
